@@ -1,6 +1,6 @@
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:-
 
-![Screenshot 2024-09-16 133529](https://github.com/user-attachments/assets/70ee9801-58f6-4e47-92f2-0c415d86b66c)
+![Screenshot 2024-09-16 140103](https://github.com/user-attachments/assets/72747d68-6288-49ff-a5da-22c69d849c57)
 
 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 : Started by importing essential Python libraries for data analysis and machine learning.
 
